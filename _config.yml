@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dr.-Ing. Bernd W. Peukert
+title: Applied science and precision engineering
 email: bernd@peukert.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Bernd W. Peukert"
   avatar : "/assets/images/bernd_bw_square.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Precision engineer with background in manufacturing science and metrology. Passionate tinkerer and problem solver."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
